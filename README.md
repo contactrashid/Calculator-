@@ -2,8 +2,6 @@
 
 A simple and responsive Calculator built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations with a clean and intuitive user interface.
 
-![Calculator Screenshot]![Screenshot 2025-05-04 161128](https://github.com/user-attachments/assets/9054acc2-2d17-4e82-97ef-661ed7d92299
-
 ## 🔗 Live Demo
 
 👉 [Try it here](https://calculator-gamma-beryl-97.vercel.app/)
@@ -15,6 +13,12 @@ A simple and responsive Calculator built using **HTML**, **CSS**, and **JavaScri
 - ✅ Real-time display
 - ✅ Responsive layout for mobile and desktop
 - ✅ Simple and clean UI
+
+- ## ## 📸 Screenshot
+- ![Screenshot 2025-05-04 161128](https://github.com/user-attachments/assets/1cd6d772-cfe0-4a21-b0d4-60b38f4cdef3)
+
+
+Here is what the calculator looks like:
 
 ## 🛠️ Built With
 
